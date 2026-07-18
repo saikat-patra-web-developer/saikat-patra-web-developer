@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Saikat Patra 👋
 
-<!--
-**saikat-patra-web-developer/saikat-patra-web-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Web Developer
 
-Here are some ideas to get you started:
+🚀 Building custom CRM systems, SaaS platforms, and business automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- React.js
+- Laravel
+- PHP
+- JavaScript
+- MySQL
+- WordPress
+- Symfony
+
+### 🌐 Portfolio
+https://inqly.online
+
+### 💼 Services
+- Custom Web Applications
+- CRM Development
+- API Integration
+- Business Automation
+- WordPress Development
+
+### 📫 Contact
+Email: saikatpatra300@gmail.com
+
+⭐ Available for Freelance Projects
