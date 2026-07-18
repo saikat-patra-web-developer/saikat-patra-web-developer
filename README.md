@@ -165,48 +165,6 @@ Scalable cloud software with
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saikat-patra-web-developer&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=saikat-patra-web-developer&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikat-patra-web-developer&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saikat-patra-web-developer&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saikat-patra-web-developer&theme=tokyo-night"/>
-
-</div>
-
----
-
 # 🌍 Let's Connect
 
 Portfolio
@@ -217,9 +175,9 @@ Email
 
 saikatpatra300@gmail.com
 
-GitHub
+Linkedin
 
-https://github.com/saikat-patra-web-developer
+https://www.linkedin.com/in/saikat-patra-web-developer
 
 ---
 
