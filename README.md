@@ -13,11 +13,11 @@ I build <strong>high-performance Web Applications, Custom CRM Systems, SaaS Plat
 <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-4f39f6?style=for-the-badge" />
 </a>
 
-<a href="mailto:contact@inqly.online">
+<a href="mailto:saikatpatra300@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/saikat-patra-web-developer">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -215,7 +215,7 @@ https://inqly.online
 
 Email
 
-contact@inqly.online
+saikatpatra300@gmail.com
 
 GitHub
 
